@@ -1,0 +1,148 @@
+body{
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 400;
+}
+.h1{
+	display: flex;
+	justify-content: center;
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 45px;
+	line-height: 47px;
+	letter-spacing: 1px;
+	color: #000000;
+}
+.menu{
+	display: flex;
+	justify-content: center;
+}
+.menuH4{
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 18px;
+	letter-spacing: 2px;
+	padding: 15px;
+	color: #000000;
+}
+.banner{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+.hotel{
+	width: 100%;
+}
+.knopka{
+	position: absolute;
+	border: 5px solid #FF7931;
+	padding: 10px;
+	background-color: #FF7931;
+	color: white;
+	width: 80px;
+	height: 15px;
+	top: 280px;
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 19px;
+	text-align: center;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+.bannerh1{
+	position: absolute;
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 100px;
+	line-height: 120px;
+	text-align: center;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+.p1{
+	position: absolute;
+	top: 580px;
+	left: 250px;
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 15px;
+	color: #FFFFFF;
+}
+.line1{
+	position: absolute;
+	top: 607px;
+	left: 390px;
+	width: 90px;
+}
+.p2{
+	position: absolute;
+	top: 580px;
+	left: 1550px;
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 15px;
+	color: #FFFFFF;
+}
+.line2{
+	position: absolute;
+	top: 607px;
+	left: 1445px;
+	width: 90px;
+}
+.strelki{
+	position: absolute;
+	top: 590px;
+	left: 920px;
+	width: 90px;
+}
+.dubai{
+	position: absolute;
+	width: 666px;
+	height: 64px;
+	left: 630px;
+	top: 650px;
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 150%;
+	text-align: center;
+	color: #FFFFFF;
+}
+.novosti{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+footer{
+	position: absolute;
+	background-color: lightgray;
+	padding: 10px;
+	top: 290%;
+	width: 100%;
+}
+.but1{
+	border: none;
+	background: none;
+  	position: relative;
+  	left: -48%;
+  	top: -48px;
+}
+.da{
+	position: absolute;
+	width: 75%;
+	left: 7.7%;
+	top: 267%;
+}
